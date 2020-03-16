@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="visit" />
+    <string name="click">click</string>
+    <string name="type_here">type here</string>
+    <string name="link" />
+</resources>
